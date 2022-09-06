@@ -42,7 +42,7 @@ a {
   }
   
 .navbar-top li a:hover {
-    background-color: #111;
+    background-color: rgb(170, 177, 172);
   }
 
 .navbar-top .active {
